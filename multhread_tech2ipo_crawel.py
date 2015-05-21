@@ -173,11 +173,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-    #s = get_articleurl_from_allpage(base_url+'/all/1')
-    #print 'finish.'
-    #write_article_brief()
-    """
-    s = get_fresh_article_url_set()
-    st = [int(each.split('/')[3]) for each in s]
-    print st
-    """
