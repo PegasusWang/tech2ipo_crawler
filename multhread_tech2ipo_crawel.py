@@ -64,11 +64,12 @@ def write_article_brief(fresh_artcile_url_set):
                 except:
                     f.close()
                     continue
+
+                f.close()
                 article['brief'] = each.find_next('p').text
                 with io.open(filename, 'w+', encoding='utf8') as outfile:
                     data = json.dumps(article, ensure_ascii=False, encoding='utf8', indent=4)
                     outfile.write(unicode(data))
-                f.close()
 
 
 def get_max_article_id():
