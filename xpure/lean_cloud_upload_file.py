@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 
+from bs4 import BeautifulSoup
+import HTMLParser
 import leancloud
 from leancloud import Object
 from leancloud import ACL
@@ -10,18 +12,30 @@ import time
 
 CRAWL_APP_ID = 'p7brywvt5xr7prmh5kpta5ez2yc5zlza18w5za9opiex8693'
 CRAWL_APP_KEY = 'itdu6xgjcigj7x4qphf8ksdvka7f4u1tt39mcpv95s9gaqls'
+CRAWL_APP_MASTER_KEY = '7d2za2s63xlxjmccta5wcuufwc3se4bxcc7sjq690yn6gatv'
 
 XPURE_APP_ID = 'ky522fknrn8mu6gxalshtr6amh7uun96lw4i9io5weti8067'
 XPURE_APP_KEY = 'xjenlt7tz8kkm6f3g7o5xw7utaqcvzyz0hanxj2pajcwzkxd'
+XPURE_APP_MASTER_KEY = 'kxwg6khxsoec5aox023xarizh7ex332r2hhzmevpy5xbfh1o'
 
-#leancloud.init(CRAWL_APP_ID, CRAWL_APP_KEY)
-leancloud.init(XPURE_APP_ID, XPURE_APP_KEY)
+CRAWL_SITE_ID = '55587250e4b066d5620c901d'
+XPURE_SITE_ID = '555d759fe4b06ef0d72ce8e7'
 
 Site = Object.extend('Site')
-CRAWL_SITE_ID = '55587250e4b066d5620c901d'
-XPURE_SITE_ID = '5559a0a7e4b0f937a0db18b0'
 
+"""
+# for crawl
+leancloud.init(CRAWL_APP_ID, master_key=CRAWL_APP_MASTER_KEY)    # use master key
+site_obj = Site.create_without_data(CRAWL_SITE_ID)
+"""
+
+#for xpure
+leancloud.init(XPURE_APP_ID, master_key=XPURE_APP_MASTER_KEY)
 site_obj = Site.create_without_data(XPURE_SITE_ID)
+
+
+tag_dict = {u'新闻': u'每日资讯', u'观点': u'深度观点',  u'人物': u'人物特写',
+            u'公司': u'公司行业', u'产品': u'产品快报'}
 
 
 class Db(Object):
@@ -92,6 +106,17 @@ def from_stamp_to_createdAt(time_stamp):
     return time.strftime('%Y-%m-%d %H:%M:%S', time_array)
 
 
+def get_remove_ad(html_text):
+    """Remove advertisement of content."""
+    soup = BeautifulSoup(html_text)
+    all_tag = soup.find_all('p')
+    length = len(all_tag)
+    if u'本文' in all_tag[length-3].text or u'来源' in all_tag[length-3].text:
+        all_tag[length-3].decompose()    # delete article source
+    all_tag[length-2].decompose()    # delete advertisement
+    return unicode(soup)
+
+
 def init_Post_obj(json_obj):
     """Init Post() object."""
     post_obj = Post()
@@ -104,18 +129,26 @@ def init_Post_obj(json_obj):
     post_obj.kind = 10
     post_obj.title = json_obj.get('title')
     post_obj.author = json_obj.get('author')
-    post_obj.brief = json_obj.get('brief')
+
+    brief_text = json_obj.get('brief')
+    if brief_text is None:
+        post_obj.brief = u''
+
+    else:
+        post_obj.brief = HTMLParser.HTMLParser().unescape(brief_text)
+
     print post_obj.author
     post_obj.createdAt = from_stamp_to_createdAt(json_obj.get('time'))
     print from_stamp_to_createdAt(json_obj.get('time'))
-    post_obj.html = json_obj.get('content')
+    post_obj.html = get_remove_ad(json_obj.get('content'))  # remove advertisement
     return post_obj
 
 
 def init_SiteTagPost_obj(json_obj, post_obj):
     """Init SiteTagPost object."""
     siteTagPost_obj = SiteTagPost()
-    siteTagPost_obj.tag_list = json_obj.get('tag')
+    siteTagPost_obj.tag_list = []
+    siteTagPost_obj.tag_list.append(tag_dict[json_obj.get('tag')])    # add tag_dict
     print json_obj.get('tag')
     siteTagPost_obj.site = site_obj
     siteTagPost_obj.post = post_obj

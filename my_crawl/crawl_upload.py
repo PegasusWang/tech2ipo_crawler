@@ -12,18 +12,19 @@ import time
 
 CRAWL_APP_ID = 'p7brywvt5xr7prmh5kpta5ez2yc5zlza18w5za9opiex8693'
 CRAWL_APP_KEY = 'itdu6xgjcigj7x4qphf8ksdvka7f4u1tt39mcpv95s9gaqls'
+CRAWL_APP_MASTER_KEY = '7d2za2s63xlxjmccta5wcuufwc3se4bxcc7sjq690yn6gatv'
 
 XPURE_APP_ID = 'ky522fknrn8mu6gxalshtr6amh7uun96lw4i9io5weti8067'
 XPURE_APP_KEY = 'xjenlt7tz8kkm6f3g7o5xw7utaqcvzyz0hanxj2pajcwzkxd'
+XPURE_APP_MASTER_KEY = 'kxwg6khxsoec5aox023xarizh7ex332r2hhzmevpy5xbfh1o'
 
-leancloud.init(CRAWL_APP_ID, CRAWL_APP_KEY)
-#leancloud.init(XPURE_APP_ID, XPURE_APP_KEY)
-
-Site = Object.extend('Site')
 CRAWL_SITE_ID = '55587250e4b066d5620c901d'
 XPURE_SITE_ID = '555d759fe4b06ef0d72ce8e7'
 
-#site_obj = Site.create_without_data(XPURE_SITE_ID)
+Site = Object.extend('Site')
+
+# for crawl
+leancloud.init(CRAWL_APP_ID, master_key=CRAWL_APP_MASTER_KEY)    # use master key
 site_obj = Site.create_without_data(CRAWL_SITE_ID)
 
 tag_dict = {u'新闻': u'每日资讯', u'观点': u'深度观点',  u'人物': u'人物特写',
@@ -103,9 +104,10 @@ def get_remove_ad(html_text):
     """Remove advertisement of content."""
     soup = BeautifulSoup(html_text)
     all_tag = soup.find_all('p')
-    for each_tag in all_tag:
-        if each_tag.text[0:2] == u'本文' or each_tag.text[0:2] == u'广告':
-            each_tag.decompose()
+    length = len(all_tag)
+    if u'本文' in all_tag[length-3].text or u'来源' in all_tag[length-3].text:
+        all_tag[length-3].decompose()    # delete article source
+    all_tag[length-2].decompose()    # delete advertisement
     return unicode(soup)
 
 
@@ -119,11 +121,17 @@ def init_Post_obj(json_obj):
     post_obj.set_acl(post_acl)
 
     post_obj.kind = 10
-    post_obj.article_id = json_obj.get('id')
     post_obj.title = json_obj.get('title')
+    post_obj.article_id = json_obj.get('id')
     post_obj.author = json_obj.get('author')
+
     brief_text = json_obj.get('brief')
-    post_obj.brief = HTMLParser.HTMLParser().unescape(brief_text)
+    print brief_text
+    if brief_text is None:
+        post_obj.brief = u''
+    else:
+        post_obj.brief = HTMLParser.HTMLParser().unescape(brief_text)
+    print post_obj.brief
     print post_obj.author
     post_obj.createdAt = from_stamp_to_createdAt(json_obj.get('time'))
     print from_stamp_to_createdAt(json_obj.get('time'))
