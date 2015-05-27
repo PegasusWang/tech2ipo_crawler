@@ -8,6 +8,7 @@ from leancloud import Object
 from leancloud import ACL
 import json
 import os
+import re
 import time
 
 CRAWL_APP_ID = 'p7brywvt5xr7prmh5kpta5ez2yc5zlza18w5za9opiex8693'
@@ -114,7 +115,36 @@ def get_remove_ad(html_text):
     if u'本文' in all_tag[length-3].text or u'来源' in all_tag[length-3].text:
         all_tag[length-3].decompose()    # delete article source
     all_tag[length-2].decompose()    # delete advertisement
-    return unicode(soup)
+    return unicode(soup.section)
+
+
+def get_tag_and_removed_tag(html_text):
+    """Remove tag."""
+    html_text = get_remove_ad(html_text)
+    print html_text
+    soup = BeautifulSoup(html_text)
+    print soup.section.string
+    articleTag_tag = soup.find(class_='articleTag')
+    articleTag_list = []
+    for each_tag in articleTag_tag.find_next('p').find_all('a'):
+        articleTag_list.append(each_tag.text)
+
+    articleTag_tag.extract()
+    re_comment=re.compile('<!--[^>]*-->')
+    s = unicode(soup.section)
+    s = re_comment.sub(u'', s)
+    return s.replace(u'\n\n', u'')
+
+
+def get_tag_list(html_text):
+    """Return tag list of each article."""
+    html_text = get_remove_ad(html_text)
+    soup = BeautifulSoup(html_text)
+    articleTag_tag = soup.find(class_='articleTag')
+    articleTag_list = []
+    for each_tag in articleTag_tag.find_next('p').find_all('a'):
+        articleTag_list.append(each_tag.text)
+    return articleTag_list
 
 
 def init_Post_obj(json_obj):
@@ -140,15 +170,18 @@ def init_Post_obj(json_obj):
     print post_obj.author
     post_obj.createdAt = from_stamp_to_createdAt(json_obj.get('time'))
     print from_stamp_to_createdAt(json_obj.get('time'))
-    post_obj.html = get_remove_ad(json_obj.get('content'))  # remove advertisement
+    #post_obj.html = get_remove_ad(json_obj.get('content'))  # remove advertisement
+    post_obj.html = get_tag_and_removed_tag(json_obj.get('content'))  # remove advertisement
     return post_obj
 
 
 def init_SiteTagPost_obj(json_obj, post_obj):
     """Init SiteTagPost object."""
     siteTagPost_obj = SiteTagPost()
+    article_tag_list = get_tag_list(json_obj.get('content'))
     siteTagPost_obj.tag_list = []
     siteTagPost_obj.tag_list.append(tag_dict[json_obj.get('tag')])    # add tag_dict
+    siteTagPost_obj.tag_list += article_tag_list
     print json_obj.get('tag')
     siteTagPost_obj.site = site_obj
     siteTagPost_obj.post = post_obj
@@ -161,6 +194,7 @@ def upload_file(file_set):
     """
     print len(file_set)
     for eachfile in file_set:
+        #raw_input()
         filename = os.path.basename(eachfile)
         local_file = open(eachfile, 'r')
         json_obj = json.load(local_file)
@@ -168,9 +202,9 @@ def upload_file(file_set):
         siteTagPost_obj = init_SiteTagPost_obj(json_obj, post_obj)
 
         try:
-            time.sleep(1)
             post_obj.save()
             siteTagPost_obj.save()
+            time.sleep(1)
         except:
             time.sleep(1)
             continue
