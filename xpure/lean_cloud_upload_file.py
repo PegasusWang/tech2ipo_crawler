@@ -121,16 +121,20 @@ def get_remove_ad(html_text):
 def get_tag_and_removed_tag(html_text):
     """Remove tag."""
     html_text = get_remove_ad(html_text)
-    print html_text
     soup = BeautifulSoup(html_text)
-    print soup.section.string
+
+    # delete span font style
+    span_tag_all = soup.find_all('span')
+    for each in span_tag_all:
+        del each['style']
+
     articleTag_tag = soup.find(class_='articleTag')
     articleTag_list = []
     for each_tag in articleTag_tag.find_next('p').find_all('a'):
         articleTag_list.append(each_tag.text)
 
     articleTag_tag.extract()
-    re_comment=re.compile('<!--[^>]*-->')
+    re_comment = re.compile('<!--[^>]*-->')
     s = unicode(soup.section)
     s = re_comment.sub(u'', s)
     return s.replace(u'\n\n', u'')
