@@ -63,6 +63,7 @@ class Post(Db):
         'updatedAt',
         'html',
         'brief',
+        'ID',
     )
 
 
@@ -127,12 +128,12 @@ def get_tag_and_removed_tag(html_text):
     for each in span_tag_all:
         del each['style']
 
-    articleTag_tag = soup.find(class_='articleTag')
-    articleTag_list = []
-    for each_tag in articleTag_tag.find_next('p').find_all('a'):
-        articleTag_list.append(each_tag.text)
+    try:
+        articleTag_tag = soup.find(class_='articleTag')
+        articleTag_tag.extract()
+    except:
+        pass
 
-    articleTag_tag.extract()
     re_comment = re.compile('<!--[^>]*-->')
     s = unicode(soup.section)
     s = re_comment.sub(u'', s)
@@ -174,6 +175,7 @@ def init_Post_obj(json_obj):
     post_obj.kind = 10
     post_obj.title = json_obj.get('title')
     post_obj.author = json_obj.get('author')
+    post_obj.ID = long(json_obj.get('id'))    # use number not string
 
     brief_text = json_obj.get('brief')
     if brief_text is None:
@@ -225,7 +227,7 @@ def upload_file(file_set):
         try:
             post_obj.save()
             siteTagPost_obj.save()
-            time.sleep(1)
+            time.sleep(0.7)
         except:
             time.sleep(1)
             continue
