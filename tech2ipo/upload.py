@@ -26,7 +26,7 @@ TECH2IPOL_APP_MASTER_KEY = 'xtgl95ivdk2llpxqfz0k4r4umtb4prx2v8lisansuagqumqw'
 
 CRAWL_SITE_ID = '55587250e4b066d5620c901d'
 XPURE_SITE_ID = '555d759fe4b06ef0d72ce8e7'
-TECH2IPO_SITE_ID = ''
+TECH2IPO_SITE_ID = '556e9fc9e4b0f7e4fdef3de8'
 
 Site = Object.extend('Site')
 
