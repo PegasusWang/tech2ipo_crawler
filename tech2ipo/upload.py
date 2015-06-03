@@ -166,7 +166,7 @@ def get_tag_list(html_text):
     articleTag_list = []
     try:
         for each_tag in articleTag_tag.find_next('p').find_all('a'):
-            articleTag_list.append(each_tag.text)
+            articleTag_list.append(unicode(each_tag.text).strip())
     except:
         return []
     return articleTag_list
@@ -212,7 +212,7 @@ def init_SiteTagPost_obj(json_obj, post_obj):
     siteTagPost_obj.tag_list = []
     for each_tag in tmp_tag_list:
         if each_tag in all_need_tag:    # add tag number more than 3 articles
-            siteTagPost_obj.tag_list.append(each_tag)
+            siteTagPost_obj.tag_list.append(each_tag.strip())
     print json_obj.get('tag')
     siteTagPost_obj.site = site_obj
     siteTagPost_obj.post = post_obj

@@ -1,25 +1,21 @@
 小米手机 35
-众筹 4
+曹国伟 3
 Bitcoin 4
-CEO 32
 干货 3
 在线支付 9
 信息 9
 蓝牙 9
 中兴 9
 汽车分享 4
-亚马逊 223
-曹国伟 3
 人人网 33
 Android 编年史 10
 股权 3
-女性 19
+Moto X 16
 比价 7
 wearable 6
-华尔街 3
 如何成为一名天使投资人 5
 Xbox 360 4
-Facebook 611
+记忆 3
 自行车 7
 市值 5
 虾米音乐 6
@@ -30,38 +26,41 @@ Dataminr 3
 Mojang 3
 SEC 4
 百思买 5
-WordPress 16
 不靠谱 3
 奇虎360 69
 东南亚 3
 客户开发 3
 素朴 3
+纽约 8
 BP 3
 Firefox 24
 神马搜索 3
-Tesla Energy 3
+Nexus 9 3
 并购 6
-即时通讯 12
 认证 6
 新闻集团 3
+移动电源 6
 OneDrive 9
 基金 5
 饭否 3
 菜谱 3
-环保 12
+盛大游戏 5
 中国移动 29
 虚拟货币 5
 反向团购 3
 Microsoft 10
 Magic Leap 4
+Smartisan 3
 platform 3
 Google Play Music 3
+Android 334
+无人驾驶汽车 13
 搜搜 6
 宏碁 7
-智能机 7
 娱乐宝 3
 920 3
 导购 6
+智能设备 11
 Moto G 4
 The new iPad 3
 Evernote 29
@@ -74,20 +73,23 @@ Birchbox 3
 云计算 74
 奥迪 4
 视频编码 3
-Windows 10 24
+下一代互联网 3
 拆分 5
 Supercell 5
 结构 3
 项目管理 4
 音频流媒体 5
+智能手表 143
 一加手机 5
-美国 29
-iPhone 6
+Coinbase 3
+Fab 19
 充电器 3
 App搜索 3
 零售店 4
 佩奇 3
 Threshold 6
+app 175
+腾讯 174
 ios8 4
 游戏机 10
 中关村 8
@@ -102,30 +104,29 @@ Qwiki 4
 MakerBot 4
 微博 85
 KPCB 3
+Windows 10 25
 游戏 110
 魔兽世界 3
 微人脉 5
+苹果 1023
 图片社交 4
-订票 3
+女性 19
 利润 6
 个性化阅读 4
 开发者大会 4
 Science 3
 杂志 4
+iPad 7
 腾讯地图 3
 柯达 6
 无线 4
 儿童 15
 飞利浦 4
-记忆 3
 用户忠诚度 3
 TMZ 3
 Jive 3
-互联网 105
-锂电池 6
-生态系统 3
+沃兹尼亚克 4
 C2C 6
-OS X 15
 网站运营 3
 雕爷牛腩 3
 宜信 6
@@ -147,7 +148,6 @@ IT 8
 ThinkPad 3
 网游 4
 SportStream 3
-马化腾 11
 显示器 4
 Chromebox 3
 播放器 6
@@ -166,22 +166,25 @@ Leadership Principles 5
 爱立信 7
 广电总局 5
 财报 68
+Linux 9
 果壳网 4
-Galaxy S6 edge 3
+BYOD 4
 NASA 14
+教训 3
 电视 31
+法国 3
 UCweb 4
 酷6 4
 半导体 3
-Sony 11
+创业指导 8
 Spartan 4
 电子阅读 6
 Apps 4
 酒店预订 3
+iMessage 9
 互联网教育 10
 黑客马拉松 3
 拍照应用 4
-Google 956
 亚洲 5
 耳机 10
 T-mobile 5
@@ -192,19 +195,23 @@ DuckDuckGo 8
 平台商 3
 海外市场 3
 罗永浩 10
-订阅 4
+Sony 12
+杨致远 3
 YouTube 13
 Nexus 26
+创业 593
 iPhone 5 35
 用户 33
 青少年 6
 信息流 4
 市场 23
+风投 53
 BBC 5
 管理 19
 WebApp 3
 交易 5
 照片分享 10
+LG 34
 电子游戏 3
 指纹 4
 娱乐 4
@@ -213,7 +220,7 @@ WebApp 3
 eBay 35
 Aviary 3
 Moto E 3
-Yo 5
+视网膜 3
 联想 55
 又拍云 3
 百度 195
@@ -223,9 +230,8 @@ Jawbone 15
 阮阿东 4
 连进去 8
 中国互联网 4
-移动广告 21
+移动平台 7
 SmartThings 3
-智慧农业 10
 数据库 7
 字体 3
 iPhone 5C 4
@@ -234,6 +240,7 @@ iPhone 5C 4
 透明度 4
 谷歌眼镜 29
 Project Ara 8
+员工 14
 福布斯 5
 离职 8
 小米盒子 12
@@ -256,40 +263,44 @@ IPv6 3
 艺术 6
 夏普 7
 TechStars项目沉浮录 6
-侵权 7
+炒作 5
 HBO 4
 松下 7
+ZIVOO 4
 b2c 14
 Inkling 4
 小冰 3
 互联网思维 3
 macbook 16
 CES2015 18
-apple 6
-闪存 5
+Youtube 77
 Meerkat 3
 Mtgox 3
 乐高 3
+iPhone 237
 64位 3
+Galaxy 6
 Apple Ⅱ 4
 Office 365 5
+虚拟现实 88
 沃尔玛 8
 活动 11
+环保 12
 Product Hunt 9
 Google Fiber 6
 DDOS 3
 tablet 6
 IPO 101
 Here 6
-GE 3
 UGC 7
 男性 4
+Sunrise 4
 创意 25
 Larry Page 4
 SDK 8
 升级 5
 垂直电商 7
-internet.org 5
+社交媒体 41
 排队 3
 Acompli 3
 叮咚小区 7
@@ -299,17 +310,16 @@ Teambition 3
 BT 3
 移动视频 4
 风险 10
-国外产品 5
-张朝阳 9
+Galaxy Note 4 3
 Branch 3
-失败 23
+可穿戴设备 104
+盈利模式 7
 设计 49
 拼车服务 3
-平板 46
 Rover 4
 收费 7
+摄影 12
 Project Loon 4
-漏洞 13
 平台化 3
 站长 3
 女权主义 3
@@ -322,11 +332,9 @@ UC 9
 Spotify 46
 Rovio 15
 疾病 3
-同性恋 11
 开放平台 15
 Nexus 4 7
 合作 8
-硅谷 33
 高通 36
 贷款 6
 iPad Pro 5
@@ -346,11 +354,13 @@ reMake 78
 阿里巴巴上市 7
 摇摇招车 4
 友盟 4
+同性恋 12
 棱镜 17
 IFTTT 10
 网页 13
 万事达 5
 Strings 3
+WordPress 17
 纪源资本 4
 健身 4
 分辨率 5
@@ -364,6 +374,7 @@ iOS7 3
 China 3
 盛大文学 3
 豆瓣 26
+即时通讯 13
 Stripe 9
 创之 3
 企业家 10
@@ -373,7 +384,6 @@ Stripe 9
 电子货币 3
 怀旧 3
 在线招聘 3
-盛大游戏 4
 图灵测试 3
 摩托罗拉移动 14
 TCL 5
@@ -382,10 +392,9 @@ TED 3
 语音控制 5
 网络电台 5
 浏览器插件 4
-无人驾驶汽车 12
 个人隐私 6
 迅雷 23
-创新 75
+Tesla Energy 3
 58同城 15
 iPad Air 2 3
 企业寻人 15
@@ -394,8 +403,8 @@ sendcloud 3
 电子书 58
 显示屏 3
 库克 12
-Mac OS 4
 沟通 7
+HealthKit 10
 雅虎 158
 Elon Musk 18
 张双 3
@@ -406,16 +415,20 @@ SpaceX 11
 高德地图 22
 无线充电 16
 NLP 3
+Github 12
 Azure 7
 阿里云OS 3
 软件 18
 AVOS 6
+MWC 2015 10
 Graph Search 5
 iOS6 4
 迪斯尼 4
 蒂姆·库克 3
 视频广告 8
+三星 302
 太阳能 10
+互联网创业 5
 支付 16
 产业 3
 每日资讯 10894
@@ -425,9 +438,9 @@ ATAP 4
 Sundar Pichai 3
 Android L 8
 趣分期 6
-Galaxy S6 9
 徐小平 5
 平板电脑 66
+Photoshop 6
 Google Fit 4
 社交网站 56
 谷歌地图 15
@@ -435,6 +448,7 @@ Maker Studios 3
 抹茶美妆 3
 智能 20
 闹钟 8
+手机 116
 HP 11
 投资者 6
 PC 41
@@ -457,22 +471,22 @@ Google眼镜 14
 钱 3
 互联网金融 96
 Windows xp 4
+互联网 106
 CB Insights 3
 生产力 7
 BlueStacks 3
+锂电池 7
 AOL 13
 极路由 3
 播客 3
 华为 45
 机器学习 8
-创业指导 7
+智能手环 30
 YourMechanic 3
-Uber 113
 社会化问答 9
 通讯录 4
 无线网 4
 DotGeek 5
-纸质书 3
 Passport 3
 行业趋势 3
 笔记 4
@@ -491,6 +505,7 @@ Bash 3
 销售 5
 海豚浏览器 3
 好莱坞 6
+阿里云 38
 营销推广 4
 Mixi 3
 监控 3
@@ -499,15 +514,16 @@ Songza 3
 汽车租赁 4
 签到 19
 电子产品 4
+iTunes 26
 众包 17
-大数据 3
 Twilio 3
+图片 12
 TechCrunch 7
 社交应用 7
 国际化 3
 海尔 6
+Oculus VR 6
 GTD 4
-Linux 8
 支付宝钱包 14
 sns 46
 windows phone 7 5
@@ -522,7 +538,7 @@ TripAdvisor 5
 Steve Ballmer 5
 42区 5
 多屏融合 3
-创见聚光灯 41
+语言学习 3
 Motorola 7
 新东方 4
 乐视 15
@@ -530,13 +546,13 @@ Motorola 7
 Whisper 7
 声音 3
 学习 5
-革命 4
+孵化器 36
 雅虎日本 3
 转型 5
 OS 3
 UltronGeek 10
 EMC 3
-社会化营销 22
+Google 959
 OnLive 8
 Kinect 18
 Ara 4
@@ -552,11 +568,10 @@ startup 10
 Mt Gox 3
 网络媒体 3
 自动驾驶汽车 4
-Moto X 15
+Y Combinator 27
 惠普 33
 兰宁羽 5
 无人驾驶 8
-风投 52
 iPad3 5
 Beats Music 6
 票务 7
@@ -564,8 +579,6 @@ Beats Music 6
 iOS 8 36
 市场调查 3
 蔡崇信 3
-LG 33
-网购 18
 移动搜索 12
 信息安全 8
 Parse 3
@@ -574,7 +587,6 @@ Parse 3
 罢工 3
 跳槽 4
 商业 5
-趋势 17
 可穿戴 90
 客户服务 5
 零售 7
@@ -585,24 +597,22 @@ FBI 4
 公关 8
 约会应用 4
 火箭 5
-就业 7
 财务 6
 邮件 11
 投资人访谈 3
-Gartner 5
 Sheryl Sandberg 3
 鲍尔默 5
 农业 9
 点点 7
-Poke 5
 酷派 4
+编程马拉松 4
 餐饮O2O 10
 360 60
 QR码 6
-Chrome 70
+Surface 47
 网络游戏 4
 乐视网 7
-餐饮 28
+移动广告 22
 微信公众平台 8
 Jobs 6
 厕所 3
@@ -620,20 +630,16 @@ Yandex 4
 空中网 7
 蜗牛移动 9
 品牌传播 3
-编程语言 5
 微淘 6
 插件 6
 集成电路 3
 Xbox One 29
-国外项目 114
-内容聚合 4
+Galaxy Nexus 3
 车联网 13
 酒店预定 3
 阅读 14
 outlook 3
-售价 3
 vimeo 5
-iOS 6
 Dropbox 55
 GPS 8
 AngelCrunch 9
@@ -647,15 +653,15 @@ FireChat 4
 CTO 3
 爆料 12
 Speed Dating 17
-密码 19
 Firefox OS 10
 薛蛮子 5
 股权众筹 17
-开发指南 3
-智能手机 146
+VR 24
+天猫双十一 4
 网页设计 10
 拼车 14
 移动应用开发 3
+移动支付 103
 解锁 4
 创业团队 11
 规模 3
@@ -669,20 +675,22 @@ Keek 3
 smashingmagazine 3
 Spark 3
 无人机 23
+密码 20
+KakaoTalk 5
 工程师 10
 Play Store 6
 餐馆 4
 SPEEDDATING 3
-盈利模式 6
 zynga 45
+平板 47
 工作 7
 Security 3
 工具 5
+旅游 39
 腾讯微博 10
 出版业 5
 白宫 3
 FCC 4
-安卓市场 3
 分析 7
 中国市场 5
 3D 32
@@ -700,6 +708,7 @@ Turntable.fm 6
 中本聪 3
 市场份额 6
 完美世界 5
+CEO 34
 外包 6
 Yahoo 25
 UberMedia 3
@@ -710,6 +719,7 @@ Google Keep 4
 宽岛 3
 积木盒子 4
 VIE 3
+Quora 40
 天弘基金 3
 微博营销 4
 破产 7
@@ -719,9 +729,12 @@ ipad 139
 Viddy 4
 对话 4
 Sam Altman 3
+智能生活 21
 慈善 6
 专利战 4
+Line 40
 锤子 3
+内讧 3
 新浪 37
 Pinterest 55
 可穿戴技术 3
@@ -756,31 +769,24 @@ YC 38
 米聊 10
 开源硬件 3
 AT&T 13
-智能设备 9
 乐天 4
 IndieGoGo 15
 图像识别 3
-苹果 8
 Email 4
 Xoom 3
 身体 3
-NBC 3
-天际网 4
-数据挖掘 14
 记录 3
 稍后阅读 4
 假如有这么个应用 17
-在线视频 24
+WWDC 31
 准备 3
 移动应用 24
 4G 27
 LBS 79
 旅行 11
 清洁能源 4
-BYOD 3
 计算机 4
-沃兹尼亚克 4
-app 173
+陌生人社交 4
 大学生 11
 facebok 3
 privacy 5
@@ -788,36 +794,37 @@ iOS 9 5
 朝鲜 5
 Tor 4
 AMD 14
-Photoshop 5
 许朝军 5
 Project Glass 19
+泡沫 11
 电子杂志 4
 Wavii 3
 贝塔斯曼 3
 访谈 6
+Hulu 22
 网贷 7
 iPhone 7 3
+恶意软件 10
+就业 8
 leap 4
 艳照 3
 苏宁 20
 iPhone 6 44
 语音助手 12
 音乐 44
-iOS 199
 笔记本电脑 8
 Google Now 24
 Heartbleed 5
 数字钱包 3
 Nexus 6 5
+安卓 50
 卫报 3
 疯狂电影 7
 匿名社交 20
 设备 3
 SoC 5
-大数据 91
 天使汇 175
 土豆网 5
-手机支付 9
 产品评测 26
 社会化电子商务 3
 凡客 10
@@ -825,12 +832,13 @@ SoC 5
 产品开发 5
 任务管理 3
 malware 3
-Line 39
 赛门铁克 4
 Socialcam 4
-健康追踪 9
+革命 4
+马化腾 11
 Kakao Talk 3
 电子病历 3
+Uber 114
 Klout 5
 总裁 4
 Messenger 8
@@ -848,9 +856,9 @@ BitTorrent 3
 走秀网 3
 移动 54
 梅姐 6
+实验 3
 监管 4
 加班 3
-阿里云 37
 销量 8
 B2B 25
 变现 12
@@ -870,27 +878,26 @@ Bill Gates 4
 统一 3
 Roku 4
 拍照 7
-开发者 59
 Path 5
 MacBook Pro 8
 Priceline 3
 奢侈品 8
-便携 3
 商业模式 34
 新ipad 4
 多玩 3
 核能 4
 欺诈 6
-阿里巴巴 297
 山寨 6
 案例分析 9
+社会化营销 23
 直播 5
-图片 12
+Wanelo 3
+欢聚时代 5
 Shellshock 4
-智能家居 86
 手机QQ 7
 可视化 3
 绿色 3
+餐饮 28
 摄像头 8
 iPod 15
 iWork 3
@@ -901,20 +908,23 @@ Bing 19
 SaaS 15
 移动办公 3
 被遗忘的权利 3
-Google 3
+Samsung 5
 WP 26
+漏洞 14
 无人汽车 3
+网购 19
 medium 5
 点名时间 4
+GE 3
 Blink 3
 忠诚度 3
 超级碗 3
-孩子 4
+VC 70
 Windows8 3
 人人影视 3
+趋势 18
 科大讯飞 3
 初创公司 19
-Apple Pay 23
 直达号 4
 金山 9
 Windows Phone 57
@@ -922,7 +932,7 @@ Windows Phone 57
 数据科学 4
 推送 3
 汇总 3
-新能源 4
+dos 3
 融资新闻 3
 芯片 12
 时间线 3
@@ -932,34 +942,34 @@ Nest 24
 bug 3
 英特尔 58
 健康 34
-Airbnb 35
 Facebook Phone 3
 Internet 3
+Chrome 71
 营销 62
 MuggleNet 3
+高管 5
 国美 3
 鸡汤 3
 妖言惑众 20
 高科技 3
+科技 59
 自由 3
-dos 3
+物联网 80
+新能源 4
 极客 5
+电商 160
 周鸿祎 39
 人人公司 7
 地理位置 5
 泰笛洗涤 3
 卫星 7
-高管 4
-Sunrise 3
-纽约 7
+彭强 4
 优惠券 10
-Facebook 3
 领导 4
 丰田 3
 抄袭 19
 独角兽公司 3
 商机 3
-魅族 21
 Delicious 8
 搜狗 21
 反垄断 3
@@ -986,17 +996,17 @@ cisco 4
 搜索引擎 35
 OLED 5
 猎头 3
-iTunes 25
 乔布斯 44
 大众点评 15
 buddy media 3
 微信营销 3
 京东 67
 1号店 4
-彭强 4
+宠物 8
 桌面 3
 小额信贷 3
 四维图新 3
+张朝阳 9
 News Digest 3
 Paper 7
 Reader 3
@@ -1005,16 +1015,17 @@ PlayStation 6
 V5版 3
 酷我音乐 3
 经纪人 3
-iPad 6
+安卓市场 4
 小米 104
 神话 4
 知识产权 3
 Kindle 46
-TV 5
 突破性科学技术 21
 成功 12
+Galaxy S6 edge 3
 体感 4
 家政服务 3
+Facebook 615
 tech2ipo新知会 6
 创业误区 5
 世界互联网大会 3
@@ -1043,10 +1054,11 @@ HTML 5 4
 个性化 11
 房地产网络中介 3
 慧聪 3
-智能生活 20
+100X 6
 500 Startups 8
 创业框架路线图 7
 小型企业 3
+手机支付 10
 快递 10
 虚拟 4
 技术创新 3
@@ -1062,7 +1074,6 @@ PPTV 6
 视频服务 3
 预览版 4
 涂鸦 3
-Touch ID 3
 windows 7 4
 估值 25
 今日头条 5
@@ -1074,12 +1085,16 @@ Tango 9
 收入 3
 USB 5
 企业 18
+创造力 3
 安全 95
 雅安 5
+Chromebook 24
 创业孵化器 3
 东芝 6
 电信 5
+阿里巴巴 300
 双十一 6
+数据挖掘 15
 香橼 3
 共享经济 12
 蓝光 3
@@ -1088,21 +1103,18 @@ App 开发 3
 资金 3
 比尔·盖茨 5
 移动购物 8
-MWC 2015 8
 外设 3
-教学 3
 二手 4
-WWDC 30
 以色列 4
 可穿戴产品 3
-手机 113
+闪存 5
 Color 10
-商业计划书 10
 现实 5
 一嗨租车 3
 Waze 18
 about.me 3
 阿里小微 7
+广告 117
 出版商 4
 新产品 3
 Chrome OS 14
@@ -1112,6 +1124,7 @@ Chrome OS 14
 SegmentFault 3
 泄露 3
 网络安全 12
+ARM 6
 Twitch 7
 骁龙 3
 公交 3
@@ -1122,6 +1135,7 @@ Vine 22
 斯诺登 7
 数据分析 15
 里程碑 4
+订票 3
 两步验证 5
 视频 73
 吴声 3
@@ -1152,14 +1166,13 @@ Bezos 4
 POP 4
 德国 3
 数字内容 5
-汽车 25
+聚美优品 7
 高盛 6
 创业准备 6
 高清 4
 Gowalla 4
 婚恋 3
 Flipkart 6
-睡眠 3
 IBM 42
 创业优问 26
 Amazon 102
@@ -1174,26 +1187,31 @@ Flash 12
 Stitcher 3
 尼康 4
 众安保险 3
+创见聚光灯 41
 Wi-Fi 10
 优酷 16
 程守宗 3
 电子墨水 3
 photo sharing 6
+Snapchat 49
 摄像 3
 苹果电视 3
 网络教育 4
 知乎 22
 责任 4
+睡眠 4
 眼镜 18
 下架 4
+订阅 4
 TechCrunch Disrupt 10
 文字 3
 人脸识别 4
 威客 3
 Q2 3
-传统产业升级 98
+美国 29
 科技创业 3
 迪信通 3
+网络 19
 戴尔 22
 Google +1 3
 网秦 8
@@ -1206,7 +1224,6 @@ AppNexus 4
 红绿灯 3
 种子基金 3
 节能 3
-欢聚时代 4
 SoundCloud 11
 黑莓 96
 数码 3
@@ -1214,11 +1231,12 @@ SoundCloud 11
 领导者 3
 手表 13
 UDID 3
-rss 5
+百发 3
 生活 6
 relayrides 3
 刺杀金正恩 3
 快播 3
+招聘 47
 picplz 3
 用户体验 26
 淘宝 50
@@ -1229,10 +1247,9 @@ Zendesk 5
 SoLoMo 3
 幕后 4
 Square 75
-Samsung 4
 Oracle 3
 Picturelife 3
-新浪微博 100
+网络攻击 5
 时间管理 8
 扎克伯格 10
 京东白条 3
@@ -1250,43 +1267,42 @@ SXSW 10
 互联网广告 5
 Orange 3
 创业环境 8
+博客 20
 4K 12
 数字营销 4
 评测报告 7
 滴滴打车 5
+Instagram 100
 网龙 4
 政府 3
 时间 3
 打车应用 19
 News Feed 4
 决策 4
-天猫双十一 4
+Yosemite 5
 细分 4
 Prismatic 4
 社交分享 3
 创业方法论 15
-应用 62
+天际网 4
 产品推广 3
 自媒体 23
 智能医疗 5
 移动安全 4
+Airbnb 36
 求职 10
 员工奖励 3
 麦当劳 3
-Fab 19
 创业须知 19
 续航 5
 Craigslist 5
 短网址 3
 小米科技 10
 Ubuntu 17
-开发 26
-云视野 4
+Oculus 25
 大脑 3
 Circa 4
 智能眼镜 12
-虚拟现实 84
-医疗 30
 数据 51
 Venture Deals 5
 香港 4
@@ -1294,39 +1310,36 @@ social game 3
 文化 5
 雇主 4
 云服务 34
-KakaoTalk 5
+云视野 4
 上市 36
 创业心得 12
 创业加速器 3
 Kaltura 4
 创业项目 7
 免费应用 4
-国外项目 4
 美团 4
 视频直播 3
 HomeKit 4
 Intel 24
-旅游 38
+众筹 75
+华尔街 3
 战略 6
-Galaxy 5
-宠物 8
-JustFab 3
 Houzz 3
 社会化网络 22
 自驾驶汽车 3
 pocket 8
-安全漏洞 3
 商务社交 8
 客户 5
 电视棒 5
 拍拍网 3
 出售 4
-手机应用 5
+内容聚合 4
 推荐 7
 国内项目 77
 PPS 3
 手写 3
 beats 17
+智能手机 148
 Moleskine 3
 初创 3
 电池 12
@@ -1337,7 +1350,6 @@ Google Play 15
 UC优视 12
 社交化 5
 导航 5
-Tinder 12
 在线医疗 4
 Fitbit 17
 职业社交网络 4
@@ -1350,13 +1362,12 @@ gurudigger 4
 创投 9
 Visa 9
 鲜果 4
-应用程序 3
 iPhone 6 Plus 4
 广告传媒 3
 科技媒体 3
 iPhone 6s 3
 触屏 4
-物联网 78
+魅族 21
 挑战 3
 Pebble 4
 Jolla 6
@@ -1364,24 +1375,20 @@ AppGratis 3
 手机APP 37
 乐视超级汽车 3
 Google Drive 8
-产品定位 5
 控制 4
 APP评测 25
 Smartphone 6
 CISPA 3
-数字化 3
+TV 6
 价格 9
 MOOC 4
 Bump 4
 优酷土豆 7
 网络暴力 3
 iBeacon 5
-创业 591
 网站分析 3
 移动电商 4
-Kickstarter 6
 Wikipedia 4
-HealthKit 9
 打车 17
 2012 7
 iTunes Radio 6
@@ -1393,26 +1400,25 @@ GroupMe 3
 Dropcam 5
 邮箱 5
 拖延症 3
+科技公司 7
 印象笔记 11
 数字音乐 7
 比尔盖茨 8
 BSNS 5
-人工智能 43
 闪投 11
 公益 11
 万达 5
 Steam 4
-程序员 27
 Windows Phone 8 15
-团队 23
 妈妈 3
 手机安全 5
 审查 4
+亚马逊 224
 盘中餐 3
 Asana 5
 云笔记 3
 数据安全 4
-恶意软件 9
+黑客攻击 5
 纳德拉 9
 智慧城市 8
 移动广告平台 3
@@ -1428,26 +1434,27 @@ VEVO 3
 Draw Something 11
 人人 6
 A轮 4
+Touch ID 4
+程序员 28
 出版 8
 Google Ventures 3
-可穿戴设备 102
 groupon 58
 中国雅虎 3
 科技行业 4
 Cooliris 6
 锤子手机 6
+开发指南 3
 智联招聘 4
 纽交所 4
 3DS 3
-泡沫 11
-移动电源 5
+创新 76
 Web2.0大会 3
 创业企业 23
 在线交友 3
 GTAT 4
-腾讯 173
+Minecraft 12
 SeatGeek 4
-指纹识别 7
+hu桑扯事 78
 股票 15
 零售业 9
 RockMelt 3
@@ -1462,10 +1469,10 @@ iPad应用 6
 Flurry 7
 Xbox 38
 ALS 3
-谷歌 312
 旧金山 4
-Galaxy S6 3
+iCloud 21
 社交数据分析 3
+指纹识别 8
 Startups 9
 工业设计 3
 Angry Birds 7
@@ -1482,8 +1489,9 @@ Yammer 8
 产品设计 13
 创业者 88
 MindMeld 3
+大数据 94
 能源 5
-Firstround 20
+输入法 10
 自动化 3
 付费 3
 金山软件 4
@@ -1492,13 +1500,14 @@ Firstround 20
 Zygna 7
 Adobe 31
 Apple TV 16
-Lumia 7
 电子邮件 21
 电力驱动跑车 4
+OS X 16
 MOTO 6
 股价 7
 发电 3
 电动车 4
+应用程序 35
 观点 4
 Bose 3
 Freemium 3
@@ -1514,7 +1523,6 @@ Netflix 49
 评论 4
 高德 5
 商务租车 6
-Minecraft 12
 杨元庆 3
 蝉游记 3
 生物识别 4
@@ -1532,21 +1540,19 @@ Windows 66
 排名 4
 模仿 3
 细节 4
-Snapchat 47
-马斯克 5
 损失 3
 4K电视 3
 数学 4
-HTC 65
 App应用 3
 Moto 360 9
 Snapdeal 6
 3D打印机 7
 网站 13
 融合 4
-研究 10
+社交游戏 37
 阿里影业 4
 Viber 3
+Zillow 3
 互联网电视 11
 闪购 8
 pebble 22
@@ -1574,56 +1580,55 @@ EverBox 3
 Safari 6
 GoPro 8
 Google Reader 6
-Oculus VR 5
 Google X 6
 WP8 7
 第三方支付 6
-互联网创业 5
+正版 3
 Acer 6
 爱奇艺 19
 Peel 3
-网络 18
 抑郁症 3
 市场规模 3
 位置信息 3
+汽车 26
 维基解密 5
 产品经理 26
-内讧 3
+生态系统 4
+侵权 7
 音乐流媒体 4
 CM 3
 艺术品电商 7
-移动商务 3
+出租车 7
 创业经历 4
 媒体 35
 硬盘 3
+Kik 8
 服务器 6
 Anonymous 5
-游戏主机 7
 光纤 5
 中国制造 3
 office 36
 Valve 10
 树莓派 8
+Yo 6
 老板 3
-招聘 46
 照片编辑 5
-ARM 6
+钢铁侠 3
 超级计算机 7
 消费 3
 品牌营销 3
 HubSpot 4
+新浪微博 101
 移动社交 3
-网络攻击 4
+O2O 122
 XP 6
-100X 6
 Rdio 3
 康宁 3
-员工 13
 Slingshot 4
 火狐 9
 企业社交 4
-版权 22
 尼尔森 5
+智能汽车 13
 91无线 4
 纳斯达克 5
 腾讯电商 6
@@ -1631,40 +1636,42 @@ Slingshot 4
 苹果公司 9
 职场 3
 在线CRM 3
-收购 119
 推特 7
 Surface Pro 3 5
-iPhone 231
 Hipmunk 4
 石墨烯 6
 Pixable 3
-Yosemite 4
 天猫 29
 银行 5
 IP地址 3
 Apple 116
 VPN 3
+Poke 6
 Zappos 5
+应用 63
+ea 7
 Warby Parker 3
 中国联通 5
 谷歌钱包 4
 Kindle Fire HD 6
 Tim Cook 11
 日本 15
-Y Combinator 26
+国外项目 118
+本地化 5
 cloud storage 4
 IDG 3
 少数派 3
+开发 29
 Google Glass 41
 Burpple 4
-Oculus 24
 Reddit 13
 纠纷 8
+iOS 205
 智能灯泡 5
 网上购物 3
+医疗 31
 方法论 4
 360搜索 19
-Skype 40
 SOPA 6
 WhatsApp 31
 黄太吉 3
@@ -1676,20 +1683,17 @@ Quirky 3
 UI 10
 越狱 15
 AR 5
-Tesla 17
 病毒传播 3
-应用程序 32
+Mac OS 4
 网址导航 3
 冰箱 3
-产品 52
+Apple Watch 85
 中国 36
 iOS 5 3
 几米 3
 医疗技术 3
-VR 23
 网易 16
 Box 21
-Surface 47
 文化中国 3
 阅读器 3
 阅后即焚 14
@@ -1698,7 +1702,7 @@ Kayak 7
 PPT 5
 苹果手表 7
 前景 4
-孵化器 36
+Galaxy S6 12
 Flipboard 29
 云同步 4
 虚拟运营商 17
@@ -1710,26 +1714,24 @@ etsy 9
 蚂蚁金服 11
 3D 打印 9
 产业革命 5
-科技 58
 WebOS 9
 U盘 3
 Foursquare 50
 Twitter 327
 互联网商务 4
-嘀嘀打车 5
 企业级市场 5
 红杉资本 5
 Wii 3
 Raspberry Pi 10
-输入法 10
 翎客航天 3
 MIT 16
 职业社交 8
 笔记本 7
 ShopRunner 3
-Quora 40
+团队 24
 云平台 4
 google reader 9
+数字化 4
 众募 13
 功能 5
 blackberry 13
@@ -1738,7 +1740,6 @@ LGBT 5
 家庭 4
 Shazam 4
 费尔南德兹 4
-广告 116
 Android M 3
 键盘 4
 甲骨文 8
@@ -1753,7 +1754,6 @@ Rift 3
 YunOS 3
 美图秀秀 8
 教科书 3
-科技公司 6
 气球 3
 CPU 6
 张仕郎 3
@@ -1768,8 +1768,10 @@ MP3 3
 HR 8
 生鲜电商 5
 空气净化器 3
-黑客攻击 4
+安全漏洞 4
+JustFab 3
 合伙人 7
+NBC 3
 手机淘宝 6
 Jeff bezos 3
 Pandora 23
@@ -1785,21 +1787,20 @@ producthunt 4
 糖尿病 3
 LTE 8
 一加 3
+孩子 4
 礼物 6
-开发 3
 聚合 5
 P2P 43
-Github 11
 超声波 3
 易到用车 16
 编辑 3
+教学 4
 玩具 9
 英伟达 7
 全球 3
 电子书阅读器 4
 MESH NETWORKING 3
 大公司 4
-三星 299
 图片分享 10
 Summly 6
 Nokia 9
@@ -1809,7 +1810,6 @@ Camera+ 3
 成本 9
 校园 3
 Leap Motion 20
-hu桑扯事 77
 二维码 12
 原型 3
 色情 7
@@ -1824,8 +1824,8 @@ ZocDoc 4
 调查 5
 Lockerz 4
 GREE 5
-智能家居 3
-PRISM 20
+Firstround 21
+儿童游戏 3
 BBM 13
 Fred Wilson 7
 代码 3
@@ -1833,6 +1833,7 @@ Fred Wilson 7
 HT实验室 32
 iPhone5 11
 脉脉 4
+apple 6
 智能硬件 33
 新闻传媒 3
 过滤 3
@@ -1840,11 +1841,10 @@ Wattpad 3
 打印机 4
 商务社交网络 4
 Mailbox 9
-安卓 49
 微创新 6
 AI 8
 GIF 4
-智能穿戴 3
+马斯克 5
 赚钱 4
 Search 4
 老罗 3
@@ -1853,18 +1853,18 @@ Search 4
 人物特写 186
 优士网 7
 AppStore 7
-出租车 7
-Kickstarter 49
+移动商务 3
 人物 16
 秘密 13
 SkyDrive 5
 纷享销客 3
 X Phone 4
-本地化 5
+HTC 66
 低价iPhone 3
 Arduino 3
 iOS5 4
 hyperloop 4
+研究 11
 京东商城 9
 学生 6
 eberhard 6
@@ -1887,14 +1887,13 @@ Digg 11
 大话科技 3
 模拟器 3
 TaskRabbit 6
+传统产业升级 100
 视频聊天 5
 雷军 34
 游戏化 5
-租房 3
 远程 5
 数字 4
 食谱 5
-下一代互联网 3
 生活服务 17
 小米电视 3
 TweetDeck 3
@@ -1904,8 +1903,8 @@ TweetDeck 3
 团购 70
 小企业 6
 云 10
+收购 120
 信息图 6
-Google I/O 6
 美丽说 6
 图解财报 7
 增强现实 32
@@ -1916,29 +1915,29 @@ iPhone 5S 19
 手柄 4
 King 4
 Yik Yak 6
-编程马拉松 3
 Chromecast 12
 当当 4
 往来 3
-开发者 3
 投影仪 3
-博客 19
+版权 24
 评测 7
 传感器 16
 W3C 3
 零售O2O 3
 云适配 3
 衰落 5
+Gartner 6
 大学 5
 真实 3
 任天堂 20
-iCloud 20
+按需订制 7
 LeanCloud 3
 搜索 75
 创业失败 8
 来往 9
 屏幕 7
 电子支付 6
+Apple Pay 24
 运营 5
 Slice 3
 旅游搜索 3
@@ -1946,9 +1945,7 @@ Slice 3
 2014年 3
 富士康 13
 Mac 33
-Instagram 98
 新闻聚合 5
-Kik 7
 MIUI 6
 斯坦福 13
 愤怒的小鸟 13
@@ -1960,17 +1957,17 @@ timeline 4
 唯品会 4
 梦想 5
 碎片化 3
+编程语言 6
 特斯拉 43
-智能手环 30
+健康追踪 10
 Bitly 3
 自然语言处理 3
 app.net 3
 华盛顿邮报 5
-Nexus 9 3
+嘀嘀打车 5
 百度影棒 4
 云端 7
 淘宝网 5
-社交游戏 37
 WIFI 18
 发展 10
 G Watch R 3
@@ -1988,6 +1985,7 @@ Lending Club 8
 平板设备 6
 虾米网 3
 Peter Thiel 12
+Tesla 18
 投融资 4
 盛大 10
 鲜果网 5
@@ -1996,6 +1994,7 @@ Peter Thiel 12
 DNA 4
 效率工具 10
 餐饮外送 3
+移动互联网 121
 公开课 4
 手机租车 4
 Xbox Music 3
@@ -2008,10 +2007,11 @@ Instapaper 6
 标准 3
 数字出版 6
 语音 10
-杨致远 3
+Tinder 14
 做空 3
 URL 3
 Jack Dorsey 9
+Kickstarter 55
 天使汇项目 54
 公开信 4
 问题 8
@@ -2032,11 +2032,11 @@ Barnes & Noble 4
 运营商 22
 爱乐活 3
 甜品 3
-语言学习 3
+internet.org 5
 活跃用户 6
 Lytro 3
-摄影 11
 谣言 4
+硅谷 35
 云验光 3
 阿里 13
 社交网络 98
@@ -2045,11 +2045,14 @@ Lytro 3
 Mark Zuckerberg 3
 Mozilla 29
 创业大赛 8
+智能机 8
+智能穿戴 4
 推广 8
 滥用 3
 图片编辑 3
 Big Data 4
 美食 16
+Lumia 8
 fancy 5
 文学移动阅读 9
 初创企业 20
@@ -2057,8 +2060,9 @@ fancy 5
 互联网医疗 8
 Lyft 19
 投资环境 3
-O2O 121
+纸质书 3
 问答网站 5
+触控笔 3
 点点网 9
 通信 3
 视频会议 4
@@ -2074,9 +2078,9 @@ C2B 4
 Slack 12
 风险投资 30
 iMac 13
-Chromebook 23
 用户留存率 3
 Siri 45
+人工智能 45
 Kindle Fire 32
 本地服务 4
 硬件 27
@@ -2089,39 +2093,31 @@ Startup Engine 9
 张小龙 11
 购物 12
 智能硬件产品 4
-按需订制 7
 tizen 9
 FM 3
 mobile 4
 Autodesk 5
-移动平台 7
 机顶盒 16
 深度观点 4432
 处理器 10
 实时搜索 3
-电商 159
 维基百科 17
 网络营销 18
 泄密 3
-智能手表 142
 互联网餐饮 3
 支付宝 59
 定价 13
-Android 328
 商务 3
 Project Tango 5
 需求 5
 破解 6
 小额贷款 3
-苹果 1015
 Google Maps 14
 自拍杆 3
 人才 5
-融资 307
-阿里巴巴 3
 Tech2IPO周刊 8
 一早创见 29
-正版 3
+便携 3
 互联网趋势 6
 地图 47
 李学凌 4
@@ -2142,13 +2138,14 @@ Instacart 3
 VMware 8
 贴纸 3
 科学 3
-手机 3
+谷歌 314
 手机游戏 16
 余额宝 14
 Expedia 6
 prime 9
 前端 3
 刷榜 3
+融资 308
 专业问答 3
 Lofter 3
 科技星探 3
@@ -2169,7 +2166,7 @@ HTML5 40
 Zynga 10
 约会 4
 天气 4
-虚拟现实 4
+商业计划书 10
 生活中的大数据 4
 酒店 7
 ERIC 3
@@ -2185,12 +2182,13 @@ Andriod 3
 快的打车 10
 极客心理健康 3
 诈骗 3
-百发 3
+rss 5
 家电 3
 中国电信 7
 图钉 3
 广告营销 3
 移动游戏 4
+众筹星探 63
 魏武挥 3
 智能腕表 3
 IOS应用 3
@@ -2198,20 +2196,24 @@ AngelList 10
 minus 3
 2012年终策划 9
 Win8 9
+WWDC 2014 3
 Paul Graham 5
 每日E图 37
 黑客 47
 新功能 3
-智能汽车 12
+产品定位 5
 Duolingo 4
+表情 3
 刘育辰 3
 Coursera 6
+开发者 62
 互联网美食 4
 教育 63
+在线视频 24
 V2EX 4
-iMessage 8
 Delivery Hero 3
 publisher 3
+失败 23
 UC浏览器 8
 分享经济 11
 Xobni 4
@@ -2226,13 +2228,14 @@ AWS 15
 社会化 8
 Gogobot 5
 打字机 3
+租房 4
 欧盟 6
 comscore 8
 TCP/IP 3
 邀请码 3
 任务 5
 Windows 8.1 11
-聚美优品 7
+Skype 41
 创业指南 9
 腾讯视频 4
 2013 18
@@ -2243,28 +2246,28 @@ Windows 8.1 11
 宕机 3
 创业者说 4
 斯帕兹 3
-ea 7
+Google I/O 7
 行业周报 20
 当当网 3
-陌生人社交 4
 教师 4
 起诉 3
 推他 3
-VC 69
-三星 3
+产品 52
 MSN 9
 行业解读 3
+智能家居 89
 报告 7
 网络课程 5
 深度学习 6
 E-ink 5
 投资 98
-电动汽车 6
+智慧农业 11
 IE 16
 Social Network 4
 path 25
 CarPlay 4
 移动阅读 4
+游戏主机 8
 光场相机 4
 Windows Blue 4
 按需 3
@@ -2275,11 +2278,10 @@ Windows Blue 4
 Google Wallet 5
 Jony Ive 7
 奖励 3
-Hulu 21
 True&Co 3
 女性创业 4
 Checkin 3
-儿童游戏 3
+PRISM 20
 迪士尼 5
 女性用户 4
 激光 4
@@ -2288,23 +2290,21 @@ Facebook Home 8
 开发者工具 4
 移动问答 3
 无线网络 6
-炒作 4
 创业服务 3
 触摸屏 3
 芝麻信用 3
-ZIVOO 3
 创业访谈 8
 手势操作 3
 创业故事 7
 丁香园 3
 视频流媒体 4
+电动汽车 7
 法律 12
 Misfit 6
 Foodspotting 4
 美股 4
 电话 3
 设计师 6
-众筹 71
 HootSuite 4
 Material Design 6
 诺基亚 147
@@ -2316,10 +2316,8 @@ Chromebooks 3
 Windows 9 8
 Gmail 47
 职场社交 5
-Youtube 75
 360手机助手 3
 Google地图 4
-移动支付 101
 操作系统 16
 宽带 7
 手势交互系统 3
@@ -2329,19 +2327,19 @@ Softbank 3
 Myspace 15
 家居 3
 市场营销 7
+KitKat 3
 Galaxy Note 5
-Apple Watch 83
 陌陌 38
 陆兆禧 4
-众筹星探 63
+产品定价 4
+手机应用 6
 RIM 23
-移动互联网 120
+国外产品 6
 Appla 24
-PS 3
 死亡观察 17
+售价 4
 NoSQL 3
 移动互联网大会 6
-存储 3
 Openstack 3
 交互设计 6
 索尼 83
@@ -2352,14 +2350,14 @@ Openstack 3
 平台 15
 蘑菇街 5
 旗舰机 4
+MacBook Air 3
 LED 6
 新闻客户端 4
 Bang With Friends 3
 技术 15
-产品定价 4
+PS 4
 中概股 6
-社交媒体 40
+存储 3
 Secret 18
-Android 6
 Chill 3
 唱吧 8

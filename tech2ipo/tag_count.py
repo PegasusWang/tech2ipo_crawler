@@ -54,9 +54,9 @@ def get_all_tag(file_list):
             #print tag_list
             for each_tag in tag_list:
                 if each_tag not in all_tag_dict:
-                    all_tag_dict[each_tag] = 1
+                    all_tag_dict[each_tag.strip()] = 1
                 else:
-                    all_tag_dict[each_tag] += 1
+                    all_tag_dict[each_tag.strip()] += 1
         #print all_tag_dict
     return all_tag_dict
 
